@@ -10,7 +10,7 @@ public class Ex03 {
 	/*
 		int num1, num2;
 
-		System.out.println("수 입력 : ");
+		System.out.println("수 입력하기 : ");
 		num1=input.nextInt();
 		String s= (num1%2==0)?"짝수" :"홀수";
 		System.out.println(num1 +" : "+s);
